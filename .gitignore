@@ -1,0 +1,11 @@
+*.pyc
+*.log
+venv/
+/.idea
+/.vscode
+logs/*
+app/data/*
+app/v1/data/*
+app/v2/data/*
+upload/*
+.env
